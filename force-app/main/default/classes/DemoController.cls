@@ -7,6 +7,7 @@ public with sharing class DemoController {
     /**
      * Get the version of the SFDX demo app
      */
+    // test comment - heroku pipeline branch
     public String getAppVersion() {
         return '1.0.0';
     }
