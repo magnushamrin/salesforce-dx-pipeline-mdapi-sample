@@ -25,7 +25,7 @@ HEROKU_PROD_APP_NAME="prod$TICKS"
 HEROKU_PIPELINE_NAME="pipeline$TICKS"
 
 # Usernames or aliases of the orgs you're using
-DEV_HUB_USERNAME="DevHubOne"
+DEV_HUB_USERNAME="DevHubTwo"
 DEV_USERNAME="pingpong-test"
 STAGING_USERNAME="pingpong-test"
 PROD_USERNAME="pingpong-prod"
